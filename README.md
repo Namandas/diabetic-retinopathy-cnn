@@ -24,15 +24,6 @@ This project focuses on the automated **detection and classification of Diabetic
 
 ---
 
-## 🗂️ Project Files
-
-- `06_without-classweights-and-lossfunc-change.ipynb` — Baseline CNN without loss function modifications  
-- `19_preprocessed-model_loss_func_change.ipynb` — Preprocessed model with focal loss  
-- `hybrid-custommodel.ipynb` — Custom hybrid CNN architecture with attention mechanisms  
-- `preprocessed-improved-384.ipynb` — Optimized high-resolution (384×384) model  
-
----
-
 ## ⚙️ Tech Stack
 
 ```bash
